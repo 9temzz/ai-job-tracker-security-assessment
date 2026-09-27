@@ -1,2 +1,3 @@
-# ai-job-tracker-security-assessment
-Threat modelling nad security security assessment of a AI-powered job application tracking workflow.
+# AI Job Tracker Security Assessment
+## Overview
+This project performs a cybersecurity assessment and threat model of an AI-powered job application tracking system.
